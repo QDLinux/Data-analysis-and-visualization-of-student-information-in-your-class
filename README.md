@@ -1,5 +1,7 @@
 # 学生信息数据分析与可视化项目说明
 
+简体中文|[English](https://github.com/QDLinux/Data-analysis-and-visualization-of-student-information-in-your-class/blob/main/docs/us/README.md)
+
 ## 软件制作过程、设计思想、源码说明、总结与未来展望
 
 ### A. 软件制作过程

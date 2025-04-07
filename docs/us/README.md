@@ -1,6 +1,6 @@
 # Student Information Data Analysis and Visualization Project Description
 
-[简体中文](https://github.com/QDLinux/Data-analysis-and-visualization-of-student-information-in-your-class/edit/main/docs/cn/README.md) | English
+[简体中文](https://github.com/QDLinux/Data-analysis-and-visualization-of-student-information-in-your-class/blob/main/docs/cn/README.md) | English
 
 ## Software Making Process, Design Philosophy, Source Code Note, Summary, and Future Outlook
 

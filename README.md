@@ -1,5 +1,3 @@
-# Data-analysis-and-visualization-of-student-information-in-your-class
-
 # 学生信息数据分析与可视化项目说明
 
 ## 软件制作过程、设计思想、源码说明、总结与未来展望
